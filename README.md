@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Sawant</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
-<img align="right" alt="Programming" width="400" src= "https://camo.githubusercontent.com/d854ad5661ff59af426bd66b7a8049a53361c4e5abd628875d1fae271d383ad6/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966">
+<img align="right" alt="Programming" width="400" src= "https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-kun27&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-kun27" /> </p>
